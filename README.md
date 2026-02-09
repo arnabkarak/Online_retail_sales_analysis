@@ -10,4 +10,7 @@ The goal is to clean the data, calculate key business KPIs, and visualize insigh
 - Visualize trends using **Python (Pandas, Seaborn, Matplotlib, Seaborn)**.
 - Deliver actionable business insights in a recruiter-friendly format.
 
+## 📎 Dataset Source
+- Kaggle: [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+
 
